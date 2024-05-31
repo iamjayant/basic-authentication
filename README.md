@@ -2,6 +2,8 @@
 basic authentication using springboot 3+, mysql as db
 Here I have implemented:
 Springboot basic auth security with autoconfiguration
+BCryptPasswordEncoder
+FormLogin
 springboot 3+ version
 used MySQL as database
 java version 17
